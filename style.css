@@ -1,0 +1,160 @@
+#titre {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Square Peg", cursive;
+  font-size: 120px;
+  background-color: rgba(0, 0, 0, 0.51);
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+#Type {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+
+#nom {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+#quantite {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+#prixAchatHT {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+#prixVenteHT {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+#prixVenteTTC {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+
+#degres {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+#valider {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+#goqr {
+  font-family: ui-serif;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-style: solid;
+}
+
+#Simulation {
+  background: rgb(109, 43, 50);
+  background: linear-gradient(
+    90deg,
+    rgba(109, 43, 50, 1) 6%,
+    rgba(155, 79, 71, 1) 41%,
+    rgba(138, 45, 94, 1) 79%,
+    rgba(100, 25, 56, 1) 100%
+  );
+}
+/* text-align:center;background-color: silver */
+
+body {
+  background-image: url(./img1.jpg);
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.h4 {
+  font-size: calc(1.275rem + 0.3vw);
+  text-align: center;
+}
+
+.btn-danger {
+  color: whitesmoke;
+  background-color: black;
+  border-color: #f9fafb;
+  border-width: 4px;
+  padding-left: 20%;
+  text-align: center;
+  border-style: revert;
+}
+.btn-primary {
+  color: #fff;
+  background-color: #2c3a4f;
+  border-color: rgba(245, 245, 245, 0.667);
+}
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-color: white;
+  border-style: inset;
+  border-width: 1.1px;
+}
+
+#modalbutton {
+  font-style: oblique;
+}
+#modalboutton {
+  font-style: oblique;
+}
+
+#table {
+  color: white;
+}
+
+#modalboutton {
+  background-color: black;
+}
+
+.fixed-table-body {
+  background-color: rgba(0, 0, 0, 0.57);
+}
+
+.fixed-table-body :hover {
+  color: white;
+}
+
+.modal-content {
+  text-align: left;
+}
